@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/InBriefNews/static/js/main.92bbef91.js",
+    "static/js/787.8e6ab02a.chunk.js": "/InBriefNews/static/js/787.8e6ab02a.chunk.js",
+    "static/media/logo.png": "/InBriefNews/static/media/logo.93134efdcb148ea5cd4e.png",
+    "index.html": "/InBriefNews/index.html",
+    "main.92bbef91.js.map": "/InBriefNews/static/js/main.92bbef91.js.map",
+    "787.8e6ab02a.chunk.js.map": "/InBriefNews/static/js/787.8e6ab02a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.92bbef91.js"
+  ]
+}
